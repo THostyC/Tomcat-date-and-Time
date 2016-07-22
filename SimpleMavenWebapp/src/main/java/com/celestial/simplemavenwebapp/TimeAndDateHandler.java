@@ -43,6 +43,6 @@ public class TimeAndDateHandler
         TimeAndDateHandler tadh = new TimeAndDateHandler();
 
         tadh.getDate();
-        tadh.getTime();
+        //tadh.getTime();
     }
 }
